@@ -1,0 +1,30 @@
+title: "Are you a cat lover?"
+questions:
+  - question: "What is a group of cats called?"
+    answers:
+      - text: "A clowder"
+        correct: true
+      - text: "A flock"
+      - text: "A herd"
+      - text: "A swarm"
+  - question: "What is the most popular breed of cat in the United States?"
+    answers:
+      - text: "Siamese"
+      - text: "Persian"
+      - text: "Maine Coon"
+        correct: true
+      - text: "Sphynx"
+  - question: "What is the average lifespan of a domestic cat?"
+    answers:
+      - text: "5-7 years"
+      - text: "8-10 years"
+      - text: "12-15 years"
+        correct: true
+      - text: "20-25 years"
+  - question: "Which of the following foods should cats never eat?"
+    answers:
+      - text: "Tuna fish"
+      - text: "Milk"
+      - text: "Grapes"
+        correct: true
+      - text: "Chicken"

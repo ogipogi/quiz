@@ -1,0 +1,14 @@
+title: "Are you a dog lover?"
+questions:
+  - question: "When can puppies see and hear?"
+    answers:
+      - text: "Between 5 to 10 days"
+      - text: "Between 17 to 21 days"
+        correct: true
+      - text: "Between 30 to 40 days"
+  - question: "Which colors are easily visible to the dog?"
+    answers:
+      - text: "Blue - Yellow - Purple"
+        correct: true
+      - text: "Red - Yellow - Blue"
+      - text: "Green - Red - White"
